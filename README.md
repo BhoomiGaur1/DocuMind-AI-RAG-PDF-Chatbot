@@ -8,14 +8,16 @@ A RAG-based Multi-PDF Chatbot built using Streamlit, FAISS, Sentence Transformer
 
 ## Features
 
-- Upload multiple PDF documents
-- Semantic search using FAISS
-- Context-aware question answering
-- Gemini API integration
-- Chat history support
-- Follow-up question handling
-- Source chunk citation
-- Multi-document retrieval
+- 📚 Multi-PDF Support
+- 🔍 Semantic Search using FAISS
+- 🤖 Gemini-Powered Question Answering
+- 💬 Conversational Chat History
+- 📄 Source Chunk Citation
+- 📑 Multi-Document Retrieval
+- 🔄 Follow-up Question Handling
+- 🧠 Context-Aware Responses
+- ⚡ Sentence Transformer Embeddings
+- ☁️ Streamlit Cloud Deployment
 
 ## Tech Stack
 
