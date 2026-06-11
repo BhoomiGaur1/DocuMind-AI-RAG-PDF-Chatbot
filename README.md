@@ -2,6 +2,10 @@
 
 A RAG-based Multi-PDF Chatbot built using Streamlit, FAISS, Sentence Transformers, and Gemini API.
 
+## Live Demo
+
+🔗 https://docu-ai-bhoomi.streamlit.app
+
 ## Features
 
 - Upload multiple PDF documents
