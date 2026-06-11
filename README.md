@@ -58,4 +58,3 @@ README.md
 - Page-level citations
 - Persistent vector database
 - Authentication
-- Cloud deployment
