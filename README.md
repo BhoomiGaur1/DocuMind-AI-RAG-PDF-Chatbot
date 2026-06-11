@@ -1,4 +1,4 @@
-# 📄 DocuMind AI
+# 📄 DocuMind AI RAG PDF Chatbot
 
 A RAG-based Multi-PDF Chatbot built using Streamlit, FAISS, Sentence Transformers, and Gemini API.
 
